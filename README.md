@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&text=Yonghun&fontAlign=40&fontSize=40&desc=Github&descAlign=60&descAlignY=50&theme=radical&animation=blink)  
 <br>
 ### Hello! 👋
-###### i'm student studying web development in South korea, I love various programming stuff
+##### i'm student studying web development in South korea, I love various programming stuff
 ### 🚀i'm currently learning🚀
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
