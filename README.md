@@ -2,7 +2,7 @@
 <br>
 ### Hello! 👋
 #### i'm student studying web development in South korea, I love various programming stuff
-- 🌐 Personal blog: [tistory.com](https://https://2yh-develop4jeon.tistory.com/)
+- 🌐 Personal blog: [tistory.com](https://2yh-develop4jeon.tistory.com/)
 ### 🚀i'm currently learning🚀
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
