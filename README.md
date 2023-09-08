@@ -18,3 +18,6 @@
 <a href="https://github.com/2YH02/Code-Snippet-Library">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=2YH02&repo=Code-Snippet-Library&theme=radical&cache_seconds=86400" />
 </a>
+<a href="https://github.com/12-Cookie/cookie-chat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=2YH02&repo=cookie-chat&theme=radical&cache_seconds=86400" />
+</a>
