@@ -21,3 +21,6 @@
 <a href="https://github.com/12-Cookie/cookie-chat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=2YH02&repo=cookie-chat&theme=radical&cache_seconds=86400" />
 </a>
+<a href="https://github.com/12-Cookie/cookie-s">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=2YH02&repo=cookie-s&theme=radical&cache_seconds=86400" />
+</a>
