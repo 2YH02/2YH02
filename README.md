@@ -19,10 +19,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=2YH02&repo=Code-Snippet-Library&theme=radical&cache_seconds=86400" />
 </a>
 
-<a href="https://github.com/12-Cookie/cookie-s">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=12-Cookie&repo=cookie-s&theme=radical&cache_seconds=86400" />
-</a>
-
-<a href="https://github.com/12-Cookie/cookie-s">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=pepero-1&repo=liar-game&theme=radical&cache_seconds=86400" />
+<a href="https://github.com/yanolja-finalproject/LETS_FE">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=yanolja-finalproject&repo=LETS_FE&theme=radical&cache_seconds=86400" />
 </a>
