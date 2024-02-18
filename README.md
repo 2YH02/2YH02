@@ -26,3 +26,8 @@
 <a href="https://github.com/Yanolza-Miniproject/frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Yanolza-Miniproject&repo=frontend&theme=radical&cache_seconds=86400" />
 </a>
+
+<a href="https://github.com/2YH02/pichub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=2YH02&repo=pichub&theme=radical&cache_seconds=86400" />
+</a>
+
