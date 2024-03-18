@@ -19,10 +19,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=2YH02&repo=chulbong-kr&theme=radical&cache_seconds=86400" />
 </a>
 
-<a href="https://github.com/2YH02/Code-Snippet-Library">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=2YH02&repo=Code-Snippet-Library&theme=radical&cache_seconds=86400" />
-</a>
-
 <a href="https://github.com/WinnerOne-LETS/LETS_FE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=WinnerOne-LETS&repo=LETS_FE&theme=radical&cache_seconds=86400" />
 </a>
@@ -31,7 +27,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Yanolza-Miniproject&repo=frontend&theme=radical&cache_seconds=86400" />
 </a>
 
+
+<a href="https://github.com/2YH02/Code-Snippet-Library">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=2YH02&repo=Code-Snippet-Library&theme=radical&cache_seconds=86400" />
+</a>
+
 <a href="https://github.com/2YH02/pichub">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=2YH02&repo=pichub&theme=radical&cache_seconds=86400" />
+</a>
+
+<a href="https://github.com/pepero-1/liar-game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=pepero-1&repo=liar-game&theme=radical&cache_seconds=86400" />
 </a>
 
