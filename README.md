@@ -5,6 +5,9 @@
 - 🎞️ Portfolio: [yonghun.me](https://www.yonghun.me/)
 - 🌐 Personal blog: [tistory.com](https://2yh-develop4jeon.tistory.com/), [yonghun.me/posts](https://www.yonghun.me/posts)
 
+Open Source
+- Recharts: [fix: sync pie tooltip/legend color with per-sector fill](https://github.com/recharts/recharts/pull/6977)
+
 <br>
 
 <div align="center">
